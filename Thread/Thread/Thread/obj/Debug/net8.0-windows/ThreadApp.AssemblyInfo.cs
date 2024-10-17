@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Thread")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ThreadApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40f95c0e63f3d79fdb5da41a94ac1fe32940db00")]
-[assembly: System.Reflection.AssemblyProductAttribute("Thread")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Thread")]
+[assembly: System.Reflection.AssemblyProductAttribute("ThreadApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ThreadApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

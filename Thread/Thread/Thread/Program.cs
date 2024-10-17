@@ -1,4 +1,4 @@
-namespace Thread
+namespace ThreadApp
 {
     internal static class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace Thread
+﻿namespace ThreadApp
 {
     partial class Form1
     {
@@ -35,7 +35,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(54, 76);
+            button1.Location = new Point(12, 63);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 1;
@@ -45,7 +45,7 @@
             // 
             // numericUpDown1
             // 
-            numericUpDown1.Location = new Point(335, 78);
+            numericUpDown1.Location = new Point(12, 92);
             numericUpDown1.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
             numericUpDown1.Name = "numericUpDown1";
             numericUpDown1.Size = new Size(110, 23);
@@ -56,7 +56,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(556, 280);
+            ClientSize = new Size(949, 280);
             Controls.Add(numericUpDown1);
             Controls.Add(button1);
             Name = "Form1";

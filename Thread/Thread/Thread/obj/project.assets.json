@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\Thread.csproj",
-      "projectName": "Thread",
-      "projectPath": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\Thread.csproj",
+      "projectUniqueName": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\ThreadApp.csproj",
+      "projectName": "ThreadApp",
+      "projectPath": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\ThreadApp.csproj",
       "packagesPath": "C:\\Users\\lucta\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\obj\\",
       "projectStyle": "PackageReference",
