@@ -1,0 +1,17 @@
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\Thread.csproj.GenerateResource.cache
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\Thread.AssemblyInfoInputs.cache
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\Thread.AssemblyInfo.cs
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\Thread.csproj.CoreCompileInputs.cache
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\Thread.sourcelink.json
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\Thread.Form1.resources
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\bin\Debug\net8.0-windows\Thread.exe
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\bin\Debug\net8.0-windows\Thread.deps.json
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\bin\Debug\net8.0-windows\Thread.runtimeconfig.json
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\bin\Debug\net8.0-windows\Thread.dll
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\bin\Debug\net8.0-windows\Thread.pdb
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\Thread.dll
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\refint\Thread.dll
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\Thread.pdb
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\Thread.genruntimeconfig.cache
+C:\Users\lucta\Desktop\TPS\C#\Timers-con-classe-Thread\Thread\Thread\Thread\obj\Debug\net8.0-windows\ref\Thread.dll
