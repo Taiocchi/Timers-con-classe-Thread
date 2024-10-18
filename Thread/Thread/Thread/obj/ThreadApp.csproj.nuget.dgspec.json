@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\ThreadApp.csproj": {}
+    "C:\\Users\\taiocchi.21206\\TPS\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\ThreadApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\ThreadApp.csproj": {
+    "C:\\Users\\taiocchi.21206\\TPS\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\ThreadApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\ThreadApp.csproj",
+        "projectUniqueName": "C:\\Users\\taiocchi.21206\\TPS\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\ThreadApp.csproj",
         "projectName": "ThreadApp",
-        "projectPath": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\ThreadApp.csproj",
-        "packagesPath": "C:\\Users\\lucta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\obj\\",
+        "projectPath": "C:\\Users\\taiocchi.21206\\TPS\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\ThreadApp.csproj",
+        "packagesPath": "C:\\Users\\taiocchi.21206\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\taiocchi.21206\\TPS\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lucta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\taiocchi.21206\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
