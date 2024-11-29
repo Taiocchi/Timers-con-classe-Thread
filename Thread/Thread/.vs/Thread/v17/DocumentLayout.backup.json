@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\",
+  "WorkspaceRootPath": "C:\\Users\\taiocchi.21206\\TPS\\Timers-con-classe-Thread\\Thread\\Thread\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17810E21-BB50-4095-A869-39686DBF58B0}|Thread\\ThreadApp.csproj|c:\\users\\lucta\\desktop\\tps\\c#\\timers-con-classe-thread\\thread\\thread\\thread\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17810E21-BB50-4095-A869-39686DBF58B0}|Thread\\ThreadApp.csproj|c:\\users\\taiocchi.21206\\tps\\timers-con-classe-thread\\thread\\thread\\thread\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17810E21-BB50-4095-A869-39686DBF58B0}|Thread\\ThreadApp.csproj|solutionrelative:thread\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17810E21-BB50-4095-A869-39686DBF58B0}|Thread\\ThreadApp.csproj|C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\thread\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{17810E21-BB50-4095-A869-39686DBF58B0}|Thread\\ThreadApp.csproj|C:\\Users\\taiocchi.21206\\TPS\\Timers-con-classe-Thread\\Thread\\Thread\\thread\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{17810E21-BB50-4095-A869-39686DBF58B0}|Thread\\ThreadApp.csproj|solutionrelative:thread\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\taiocchi.21206\\TPS\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\Form1.cs",
               "RelativeDocumentMoniker": "Thread\\Form1.cs",
-              "ToolTip": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\Form1.cs",
+              "ToolTip": "C:\\Users\\taiocchi.21206\\TPS\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\Form1.cs",
               "RelativeToolTip": "Thread\\Form1.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAUwFkAAAAUAAAAAAAAAA==",
+<<<<<<< HEAD
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwGAAAAAvAAAAAAAAAA==",
+>>>>>>> d1f20b94aa45cff95e470f6f4221e5c3df428366
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T15:35:07.423Z",
               "IsPinned": true,
@@ -38,10 +42,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\taiocchi.21206\\TPS\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\Form1.cs",
               "RelativeDocumentMoniker": "Thread\\Form1.cs",
               "ToolTip": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\Form1.cs [Progettazione]",
-              "RelativeToolTip": "Thread\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\Form1.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T15:34:20.442Z"
             }

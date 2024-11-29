@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\ThreadApp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Si è verificato un problema durante la lettura del file di cache C:\\Users\\lucta\\Desktop\\TPS\\C#\\Timers-con-classe-Thread\\Thread\\Thread\\Thread\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
