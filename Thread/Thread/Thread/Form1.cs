@@ -14,10 +14,12 @@ namespace ThreadApp
 
         public FormImmagine(string message, string imagePath)
         {
+            // Imposta le dimensioni della form
             this.Size = new Size(200, 300);
             this.StartPosition = FormStartPosition.CenterScreen;
             this.Text = "Immagine Box";
 
+            // Crea il PictureBox per visualizzare l'immagine
             pictureBox = new PictureBox();
             pictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox.Size = new Size(150, 150);
@@ -26,11 +28,13 @@ namespace ThreadApp
             // Carica l'immagine dal percorso specificato
             pictureBox.Image = Image.FromFile(imagePath); // Usa il percorso passato al costruttore
 
+            // Crea il pulsante OK
             buttonOk = new Button();
             buttonOk.Text = "OK";
             buttonOk.Location = new Point(60, 200);
             buttonOk.Click += (sender, e) => this.Close(); //Chiude la messageBox
 
+            // Aggiungi i controlli al form
             this.Controls.Add(pictureBox);
             this.Controls.Add(buttonOk);
         }
@@ -38,10 +42,9 @@ namespace ThreadApp
 
     public partial class Form1 : Form
     {
-        private Thread[] threads; 
+        private Thread[] threads; // Array di Thread per gestire i countdown
         private System.Windows.Forms.Label[] lblTempo;
         private int cont = 0;
-        private object lockObject = new object(); 
 
         public Form1()
         {
@@ -51,8 +54,8 @@ namespace ThreadApp
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            threads = new Thread[100]; 
-            lblTempo = new System.Windows.Forms.Label[100]; 
+            threads = new Thread[100]; // Inizializzo l'array dei thread
+            lblTempo = new System.Windows.Forms.Label[100]; // Inizializzo l'array delle label
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -64,11 +67,13 @@ namespace ThreadApp
             this.Controls.Add(lblTempo[cont]);
             lblTempo[cont].Text = numericUpDown1.Value.ToString();
 
+            // Creo un nuovo thread che eseguirà il countdown
             threads[cont] = new Thread(new ParameterizedThreadStart(Countdown));
             threads[cont].Start(cont); 
             cont++;
         }
 
+        // Metodo eseguito nel thread per gestire il countdown
         private void Countdown(object index)
         {
             int n = (int)index;
