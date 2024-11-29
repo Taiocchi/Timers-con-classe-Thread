@@ -26,20 +26,13 @@ namespace ThreadApp
             pictureBox.Location = new Point(20, 20);
 
             // Carica l'immagine dal percorso specificato
-            try
-            {
-                pictureBox.Image = Image.FromFile(imagePath); // Usa il percorso passato al costruttore
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Errore nel caricamento dell'immagine: " + ex.Message);
-            }
+            pictureBox.Image = Image.FromFile(imagePath); // Usa il percorso passato al costruttore
 
             // Crea il pulsante OK
             buttonOk = new Button();
             buttonOk.Text = "OK";
             buttonOk.Location = new Point(60, 200);
-            buttonOk.Click += (sender, e) => this.Close();
+            buttonOk.Click += (sender, e) => this.Close(); //Chiude la messageBox
 
             // Aggiungi i controlli al form
             this.Controls.Add(pictureBox);
@@ -56,6 +49,7 @@ namespace ThreadApp
 
         public Form1()
         {
+            CheckForIllegalCrossThreadCalls = false;
             InitializeComponent();
         }
 
@@ -91,21 +85,21 @@ namespace ThreadApp
                 Thread.Sleep(1000); // Aspetta 1 secondo
 
                 // Sincronizzo l'accesso alla label sul thread principale
-                this.Invoke((MethodInvoker)delegate {
+                //this.Invoke((MethodInvoker)delegate {
                     timeLeft--;
                     lblTempo[n].Text = timeLeft.ToString();
-                });
+                //});
             }
 
             // Quando il countdown arriva a 0, mostra il FormImmagine
             if (timeLeft == 0)
             {
-                this.Invoke((MethodInvoker)delegate {
+                //this.Invoke((MethodInvoker)delegate {
                     // Mostra la finestra dell'immagine
                     string imgPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Resources", "Boom-1258x686.png");
                     FormImmagine formImmagine = new FormImmagine("BOOM!", imgPath);
                     formImmagine.ShowDialog(); // Usa ShowDialog per aprire come finestra modale
-                });
+                //});
             }
         }
     }
